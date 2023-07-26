@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 15 16">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#_Новый_образец_градиентной_залив);
+      }
+
+      .cls-2 {
+        fill: url(#_Безымянный_градиент_35);
+      }
+
+      .cls-3 {
+        fill: url(#_Безымянный_градиент_29);
+      }
+
+      .cls-4 {
+        fill: url(#_Новый_образец_градиентной_залив-5);
+      }
+
+      .cls-5 {
+        fill: url(#_Новый_образец_градиентной_залив-2);
+      }
+
+      .cls-6 {
+        fill: url(#_Новый_образец_градиентной_залив-3);
+      }
+
+      .cls-7 {
+        fill: url(#_Новый_образец_градиентной_залив-4);
+      }
+
+      .cls-8 {
+        fill: url(#_Новый_образец_градиентной_залив-6);
+      }
+    </style>
+    <linearGradient id="_Новый_образец_градиентной_залив" data-name="Новый образец градиентной залив" x1="6.5" y1="14" x2="6.5" y2="7" gradientTransform="translate(0 18) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4ddd7"/>
+      <stop offset="1" stop-color="#e4ddd7"/>
+    </linearGradient>
+    <linearGradient id="_Новый_образец_градиентной_залив-2" data-name="Новый образец градиентной залив" x1="8" x2="8" xlink:href="#_Новый_образец_градиентной_залив"/>
+    <linearGradient id="_Новый_образец_градиентной_залив-3" data-name="Новый образец градиентной залив" x1="8" x2="8" xlink:href="#_Новый_образец_градиентной_залив"/>
+    <linearGradient id="_Безымянный_градиент_35" data-name="Безымянный градиент 35" x1="8" y1="14" x2="8" y2="7" gradientTransform="translate(0 18) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4ddd7"/>
+      <stop offset="1" stop-color="#e4ddd7"/>
+    </linearGradient>
+    <linearGradient id="_Безымянный_градиент_29" data-name="Безымянный градиент 29" x1="8" y1="18" x2="8" y2="2" gradientTransform="translate(0 18) scale(1 -1)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e4ddd7"/>
+      <stop offset="1" stop-color="#e4ddd7"/>
+    </linearGradient>
+    <linearGradient id="_Новый_образец_градиентной_залив-4" data-name="Новый образец градиентной залив" x1="1.5" y1="18" x2="1.5" y2="2" xlink:href="#_Новый_образец_градиентной_залив"/>
+    <linearGradient id="_Новый_образец_градиентной_залив-5" data-name="Новый образец градиентной залив" x1="1.5" y1="18" x2="1.5" y2="2" xlink:href="#_Новый_образец_градиентной_залив"/>
+    <linearGradient id="_Новый_образец_градиентной_залив-6" data-name="Новый образец градиентной залив" x1="1.5" y1="18" x2="1.5" y2="2" xlink:href="#_Новый_образец_градиентной_залив"/>
+  </defs>
+  <path class="cls-1" d="m5,10.5c0-.28.22-.5.5-.5h2c.28,0,.5.22.5.5s-.22.5-.5.5h-2c-.28,0-.5-.22-.5-.5Z"/>
+  <path class="cls-5" d="m5,8.5c0-.28.22-.5.5-.5h5c.28,0,.5.22.5.5s-.22.5-.5.5h-5c-.28,0-.5-.22-.5-.5Z"/>
+  <path class="cls-6" d="m5,6.5c0-.28.22-.5.5-.5h5c.28,0,.5.22.5.5s-.22.5-.5.5h-5c-.28,0-.5-.22-.5-.5Z"/>
+  <path class="cls-2" d="m5,4.5c0-.28.22-.5.5-.5h5c.28,0,.5.22.5.5s-.22.5-.5.5h-5c-.28,0-.5-.22-.5-.5Z"/>
+  <path class="cls-3" d="m3,0h10c1.1,0,2,.9,2,2v12c0,1.1-.9,2-2,2H3c-1.1,0-2-.9-2-2v-1h1v1c0,.55.45,1,1,1h10c.55,0,1-.45,1-1V2c0-.55-.45-1-1-1H3c-.55,0-1,.45-1,1v1h-1v-1C1,.9,1.9,0,3,0Z"/>
+  <path class="cls-7" d="m1,5v-.5c0-.28.22-.5.5-.5s.5.22.5.5v.5h.5c.28,0,.5.22.5.5s-.22.5-.5.5H.5c-.28,0-.5-.22-.5-.5s.22-.5.5-.5h.5Z"/>
+  <path class="cls-4" d="m1,8v-.5c0-.28.22-.5.5-.5s.5.22.5.5v.5h.5c.28,0,.5.22.5.5s-.22.5-.5.5H.5c-.28,0-.5-.22-.5-.5s.22-.5.5-.5h.5Z"/>
+  <path class="cls-8" d="m1,11v-.5c0-.28.22-.5.5-.5s.5.22.5.5v.5h.5c.28,0,.5.22.5.5s-.22.5-.5.5H.5c-.28,0-.5-.22-.5-.5s.22-.5.5-.5h.5Z"/>
+</svg>
