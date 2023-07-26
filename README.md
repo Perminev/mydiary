@@ -10,7 +10,8 @@
 </p>
 
 `p.s.
-If you open diary.db do this five commands in terminal:
+On the python 3.10 and newer working not stable and
+if you open diary.db do this five commands in terminal:
 `
 ```
 cd YOUR_PROJECT_FOLDER
