@@ -9,7 +9,7 @@
 
 </p>
 
-`how to use?` 
+### How to use it?
 ### Windows:
 `First you need download to download zip or write one command in the terminal:`
 ```
