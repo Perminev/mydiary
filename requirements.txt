@@ -44,7 +44,6 @@ pure-eval==0.2.2
 py-translate==1.0.3
 Pygments==2.15.1
 python-dateutil==2.8.2
-pywin32==306
 pyzmq==25.1.0
 requests==2.31.0
 rfc3986==1.5.0
