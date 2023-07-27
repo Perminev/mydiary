@@ -9,10 +9,67 @@
 
 </p>
 
-`p.s.
-On the python 3.10 and newer working not stable and
-if you open diary.db do this five commands in terminal:
-`
+`how to use?` 
+### Windows:
+`First you need download to download zip or write one command in the terminal:`
+```
+git clone https://github.com/Perminev/mydiary
+```
+`Second you need to install requirements`
+```
+cd YOUR_PROJECT_FOLDER
+pip install -r requirements.txt
+```
+`Next you need to run it`
+```
+python main.py
+```
+### Linux:
+`Preparing for install (You can skip this if all packages are installed and updated):`
+```
+pkg install git
+pkg install pip
+pkg upgrade
+pkg update
+```
+`First you need write one command in the terminal:`
+```
+git clone https://github.com/Perminev/mydiary
+```
+`Second you need to install requirements`
+```
+cd mydiary-main
+pip install -r requirements.txt
+```
+`Next you need to run it`
+```
+python main.py
+```
+
+### Termux:
+`Preparing for install (You can skip this if all packages are installed and updated):`
+```
+pkg install git
+pkg install pip
+pkg upgrade
+pkg update
+```
+`First you need write one command in the terminal:`
+```
+git clone https://github.com/Perminev/mydiary
+```
+`Second you need to install requirements`
+```
+cd mydiary
+pip install -r requirements.txt
+```
+`Next you need to run it`
+```
+python main.py
+```
+
+###### p.s. On the python 3.10 and newer stable working not garanted and if you open diary.db do this five commands in terminal:
+
 ```
 cd YOUR_PROJECT_FOLDER
 python
