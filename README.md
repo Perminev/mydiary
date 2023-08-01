@@ -27,10 +27,10 @@ python main.py
 ### Linux:
 `Preparing for install (You can skip this if all packages are installed and updated):`
 ```
-pkg install git
-pkg install pip
-pkg upgrade
-pkg update
+sudo apt-get update
+sudo apt-get install git
+sudo apt update
+sudo apt install python3-pip
 ```
 `First you need write one command in the terminal:`
 ```
