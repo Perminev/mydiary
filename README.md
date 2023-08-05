@@ -38,7 +38,7 @@ git clone https://github.com/Perminev/mydiary
 ```
 `Second you need to install requirements`
 ```
-cd mydiary-main
+cd mydiary
 pip install -r requirements.txt
 ```
 `Next you need to run it`
